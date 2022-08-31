@@ -1,6 +1,6 @@
-You will need to install open3d and pyrealsense2 packages:
+You need to install open3d and pyrealsense2 packages:
  pip install open3d, pyrealsense2
  
- Please be aware raw data is not provided — make sure to change the input file names to reproduce the experiment. 
+Please be aware raw data is not provided — make sure to change the input file names to reproduce the experiment. 
  
  
